@@ -1,0 +1,13 @@
+@media only screen and (max-width: 500px) {
+    iframe {
+        width: 100%;
+        height: 270px;
+    }
+    .jumbotron {
+        padding-top: 100px;
+    }
+    .jumbotron img {
+        width: 300px;
+    }
+
+}
